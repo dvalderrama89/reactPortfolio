@@ -8,6 +8,7 @@ import {
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
+import resume from './david_valderrama_resume.pdf';
 
 export default function App() {
   return (
@@ -23,7 +24,7 @@ export default function App() {
               <Link to="/contact">Contact</Link>
             </li>
             <li>
-              <Link to="/resume">Resume</Link>
+              <a class="grey-text text-lighten-3" download href={resume}>Resume</a>
             </li>
           </ul>
         </div>

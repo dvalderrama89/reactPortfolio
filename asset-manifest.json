@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.b0bf3cee.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.b0bf3cee.chunk.js.map",
-    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.620956aa.js",
-    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.620956aa.js.map",
-    "static/js/2.ca2972a1.chunk.js": "/reactPortfolio/static/js/2.ca2972a1.chunk.js",
-    "static/js/2.ca2972a1.chunk.js.map": "/reactPortfolio/static/js/2.ca2972a1.chunk.js.map",
-    "static/js/3.0b2ee0e0.chunk.js": "/reactPortfolio/static/js/3.0b2ee0e0.chunk.js",
-    "static/js/3.0b2ee0e0.chunk.js.map": "/reactPortfolio/static/js/3.0b2ee0e0.chunk.js.map",
+    "main.css": "/reactPortfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.476c6a97.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.476c6a97.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.b09a9b49.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.b09a9b49.js.map",
+    "static/js/2.eebf20bc.chunk.js": "/reactPortfolio/static/js/2.eebf20bc.chunk.js",
+    "static/js/2.eebf20bc.chunk.js.map": "/reactPortfolio/static/js/2.eebf20bc.chunk.js.map",
+    "static/js/3.c591cac6.chunk.js": "/reactPortfolio/static/js/3.c591cac6.chunk.js",
+    "static/js/3.c591cac6.chunk.js.map": "/reactPortfolio/static/js/3.c591cac6.chunk.js.map",
     "index.html": "/reactPortfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/reactPortfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ca2972a1.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.ca2972a1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reactPortfolio/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/reactPortfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eebf20bc.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.eebf20bc.chunk.js.LICENSE.txt",
+    "static/media/david_color_portrait.4d19cd54.jpg": "/reactPortfolio/static/media/david_color_portrait.4d19cd54.jpg",
+    "static/media/david_valderrama_resume.a1ff4589.pdf": "/reactPortfolio/static/media/david_valderrama_resume.a1ff4589.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.620956aa.js",
-    "static/js/2.ca2972a1.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.b0bf3cee.chunk.js"
+    "static/js/runtime-main.b09a9b49.js",
+    "static/js/2.eebf20bc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.476c6a97.chunk.js"
   ]
 }

@@ -3,32 +3,17 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link,
 } from "react-router-dom";
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import resume from './david_valderrama_resume.pdf';
+import Header from './components/Header';
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
     <Router>
-      <nav>
-        <div className="nav-wrapper">
-        <Link to="/" className="brand-logo">Home</Link>
-          <ul id="nav-mobile" className="right hide-on-med-and-down">
-            <li>
-              <Link to="/about">About</Link>
-            </li>
-            <li>
-              <Link to="/contact">Contact</Link>
-            </li>
-            <li>
-              <a class="grey-text text-lighten-3" download href={resume}>Resume</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+        <Header />
         <Switch>
           <Route path="/contact">
             <Contact />
@@ -40,7 +25,7 @@ export default function App() {
             <Home />
           </Route>
         </Switch>
-      
+        <Footer />
     </Router>
   );
 }

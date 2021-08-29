@@ -1,9 +1,10 @@
 import React from 'react';
+import Profile from '../components/Profile';
 
 function About() {
   
   return (
-    <div>Hi2</div>
+    <Profile />
   );
 }
 
